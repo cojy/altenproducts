@@ -1,9 +1,16 @@
+#ALTEN TEST
+Backend développé en Java 17 / SpringBoot d'un CRUD de gestion de produits avec swagger.
+
+Aucune authent.
+
+La base de donnée est une H2, qui démarre avec l'application, il n'y a donc pas de persistance entre les démarrages.
+
 # Back-end
 
 Développer un back-end permettant la gestion de produits définis plus bas. Vous pouvez utiliser la technologie de votre choix parmis la list suivante :
 
 - nodejs/express
-- Java/Spring Boot
+- **Java/Spring Boot**
 - C#/.net Core
 - Python/Flask
 
