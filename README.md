@@ -1,4 +1,4 @@
-#ALTEN TEST
+# ALTEN TEST
 
 Backend développé en Java 17 / SpringBoot d'un CRUD de gestion de produits avec swagger.
 
